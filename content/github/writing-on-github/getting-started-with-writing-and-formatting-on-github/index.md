@@ -1,4 +1,4 @@
----
+---https://SDK.minepi.com/pi-sdk.js/get/v2/payments/Madhurmila44/Madhurmila44
 title: Getting started with writing and formatting on GitHub
 redirect_from:
   - /articles/markdown-basics/
